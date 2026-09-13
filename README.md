@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm Manish Kumar Verma 👋
 
-<!--
-**M-K-Verma/M-K-Verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | AI & Automation Engineer
 
-Here are some ideas to get you started:
+I build modern web applications, intelligent automation tools,
+and scalable software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Full-Stack Developer
+- 🤖 Interested in AI & Automation
+- 🛠️ Building practical developer tools and applications
+- 🌱 Continuously learning and experimenting with new technologies
+- 📍 Based in ...
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+JavaScript · TypeScript · Python · Java
+
+### Frontend
+React · Next.js · HTML · CSS · Tailwind CSS
+
+### Backend
+Node.js · Express · REST APIs
+
+### Database
+PostgreSQL · MongoDB · MySQL
+
+### Tools
+Git · GitHub · Docker · Linux
+
+### AI
+LLMs · AI Agents · Automation · APIs
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Project Name
+Short description of what the project does.
+
+**Tech:** React · Node.js · PostgreSQL
+
+[View Project](#)
+
+### 🔹 Project Name
+Short description of your second best project.
+
+**Tech:** Python · AI · API
+
+[View Project](#)
+
+---
+
+## 📊 GitHub Stats
+
+<!-- stats here -->
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: ...
+- 🌐 Portfolio: ...
+- 📧 Email: ...
